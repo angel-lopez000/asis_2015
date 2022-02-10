@@ -1,0 +1,4 @@
+[21-Jul-2015 20:09:37 UTC] PHP Notice:  Undefined index: nombre in /home/asismx/public_html/formulario.php on line 4
+[21-Jul-2015 20:09:37 UTC] PHP Notice:  Undefined index: email in /home/asismx/public_html/formulario.php on line 5
+[21-Jul-2015 20:09:37 UTC] PHP Notice:  Undefined index: mensaje in /home/asismx/public_html/formulario.php on line 6
+[21-Jul-2015 20:09:37 UTC] PHP Notice:  Undefined index: submit in /home/asismx/public_html/formulario.php on line 13
